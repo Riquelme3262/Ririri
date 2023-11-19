@@ -34,3 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AfJohXlDOerzJzHvaqY3AAs-IzIkgXb4Wsgkp0K2Pmof-1oriNVYfte1LvwYqp61x-DXEA" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
